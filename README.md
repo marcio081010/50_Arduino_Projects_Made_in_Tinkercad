@@ -94,4 +94,25 @@
 
 39- Dinosaur google hacker ( ⚪ ) "HardWare+SoftWare" https://www.tinkercad.com/things/lKKFhNWjp5t
 
-40- 
+40- Turning on Leds with Dip switch ( ⚪ ) "HardWare+SoftWare" https://www.tinkercad.com/things/k8r7nYpTaWu
+
+41- Alcohol Gel ( 🔵 ) "HardWare+SoftWare" https://www.tinkercad.com/things/gmZI4wf6nY8
+
+42- Automatic Recycle Bin Port ( 🔵 ) "HardWare+SoftWare" https://www.tinkercad.com/things/kECeWzkNBVS
+
+43- sound meter ( 🔴 ) "HardWare+SoftWare" https://www.tinkercad.com/things/5Nf8F4MwGio
+
+44- Shower with Temperature Sensor ( 🔴 ) "HardWare+SoftWare" https://www.tinkercad.com/things/h0IRpZ1eo16
+
+45- transistor with vibratorio motor ( ⚪ ) "HardWare+SoftWare" https://www.tinkercad.com/things/b8T5puNmRbD
+
+46- Claw with Arduino ( ⚪ ) "HardWare+SoftWare" https://www.tinkercad.com/things/9zxPKN06BNm
+
+47- mini-game with LCD+Bhutan ( 🔴 ) "HardWare+SoftWare" https://www.tinkercad.com/things/d7Ke3kmJ2W8
+
+48- Dual-rotating solar panel ( 🔴 ) "HardWare+SoftWare" https://www.tinkercad.com/things/3ha18b6vU6W
+
+49- slate ( 🔵 ) "HardWare+SoftWare" https://www.tinkercad.com/things/2wecuSH8NMi
+
+50- PIEZO sound test ( ⚪ ) "HardWare+SoftWare" https://www.tinkercad.com/things/g19SPtwbPUN
+
