@@ -50,7 +50,7 @@
 
 🔸Difficult = 🔴
 
-### ⚠️Attention!! "Projects are available to improve both programming knowledge and electronic development"⚠️
+#### ⚠️"Projects are available to improve both programming knowledge and electronic development"
 
 
 ## 🚀What's my goal with all this❔ 
@@ -207,11 +207,3 @@
 
 50- PIEZO sound test ( ⚪ ) "HardWare+SoftWare" 
 📌https://www.tinkercad.com/things/g19SPtwbPUN
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-By: ⚡Marcio Vinicius⚡
-💸💲help keep this project from sponsoring!!💲💰
-🏆my contact if you want to sponsor me: marcio081010@outlook.com
-
-"don't let others limit your success, success only depends on your choices!!"
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
