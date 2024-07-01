@@ -1,4 +1,47 @@
 # 🔧⭐My 50 Projects With Arduino⭐🔧
+
+                                                        ^JJJJJJJJJJJJJJJJJJJJJJJJJ?.  ~77777777777777777777777777~   ~!!!!!!!!!!!!!!!!!!!!!!!!!:                                                        
+                                                        ~YYYYYYYYYYYYYYYYYYYYYYYYYJ.  ~??????????????????????????~   !7777777777777777777777777:                                                        
+                                                        ~YYYYYJ::::::::::::::!YYYYJ.  ~??????????!:::^???????????~   !7!!7^.:::::!7!7^.:::!!!!7:                                                        
+                                                        ~YYYYY?              ~YYYYJ.  ~??????????!   :???????????~   !7!!7.      :777:   .!!!!7:                                                        
+                                                        ~YYYYYJ????~   .?????JYYYYJ.  ~??????????!   :???????????~   !7!!7.       ^77:   .!!!!7:                                                        
+                                                        ~YYYYYYYYYY!   .JYYYYYYYYYJ.  ~??????????!   :???????????~   !7!!7.   ^.   ^7:   .!!!!7:                                                        
+                                                        ~YYYYYYYYYY!   .JYYYYYYYYYJ.  ~??????????!   :???????????~   !7!!7.   ~!.   ~^   .!!!!7:                                                        
+                                                        ~YYYYYYYYYY!   .JYYYYYYYYYJ.  ~??????????!   :???????????~   !7!!7.   ^7~    .   .!!!!7:                                                        
+                                                        ~YYYYYYYYYY!   .JYYYYYYYYYJ.  ~??????????!   :???????????~   !7!!7.   ^77~       .!!!!7:                                                        
+                                                        ~YYYYYYYYYY!    JYYYYYYYYYJ.  ~??????????!   :???????????~   !7!!7.   ^7!7~      .!!!!7:                                                        
+                                                        ~YYYYYYYYYY?^~^~JYYYYYYYYYJ.  ~??????????7^^^~???????????~   !7!!7^:::~7!!7~:::::^!!!!7:                                                        
+                                                        ~YYYYYYYYYYYYYYYYYYYYYYYYYJ.  ~??????????????????????????~   !7777777777777777777777777:                                                        
+                                                        :~~~~~~~~~~~~~~~~~~~~~~~~~^   :^^^^^^^^^^^^^^^^^^^^^^^^^^:   ::::::::::::::::::::::::::.                                                        
+                                                                                                                                                                                                        
+                                                        ^?????????????????????????7.  ^!!!!!!!!!!!!!!!!!!!!!!!!!!^   ^~~~~~~~~~~~~~~~~~~~~~~~~~:                                                        
+                                                        ~YYYYYJJJJJYYYYYJJJJJJYYYYJ.  ~77777777777777777777777777~   ~~~~~~~~~~~~~~~!!!~~~~~~~!:                                                        
+                                                        ~YJJJJ?::.^JJYJ!::..~?JJJJJ.  ~777777!...........!7777777~   ~~~~~~..........:^~~~~~~~~:                                                        
+                                                        ~YJJJY?   :YY7:   .!JJJJJJJ.  ~777777~           ~7777777~   ~~~~~~.           :~~~~~~~:                                                        
+                                                        ~YJJJY?   :?^   .!JYJJJJJJJ.  ~777777~   .!!!!!!!77777777~   ~~~~~~.   ^^^^.    ~~~~~~~:                                                        
+                                                        ~YJJJY?   ..  .~JYJJJJJJJJJ.  ~777777~   .~~~~~~~77777777~   ~~~~~~.   ^^^^.   :~~~~~~~:                                                        
+                                                        ~YJJJY?       .7YYJJJJJJJJJ.  ~777777~           ~7777777~   ~~~~~~.         .^~~~~~~~~:                                                        
+                                                        ~YJJJY?   .^    ^?YJJJJJJJJ.  ~777777~   .!!!!!!!77777777~   ~~~~~~.   ^^^.   :~~~~~~~~:                                                        
+                                                        ~YJJJY?   :Y7:    ~JYJJJJJJ.  ~777777~   .!!!!!!~~7777777~   ~~~~~~.   ~!!~    :~~~~~~~:                                                        
+                                                        ~YJJJY?   :JYJ!.    ~JJJJJJ.  ~777777~            !777777~   ~~~~~~    ~~~!^    :~~~~~~:                                                        
+                                                        ~YJJJJJ~~^!JJJYJ~~~^^!JJJJJ.  ~777777!^^^^^^^^^^^^7777777~   ~~~~~~::::~~~~~^::::~~~~~~:                                                        
+                                                        ~YJJJJYYYYYJJJJYYYYYYYJJJYJ.  ~77777777777777777777777777~   ~~~~~~!!!!~~~~~!!!!!~~~~~!:                                                        
+                                                        ^J?????????????????????????.  ~7!!!!!!!!!!!!!!!!!!!!!!!!7~   ~~~~~~~~~~~~~~~~~~~~~~~~~~:                                                        
+                                                                                                                                                                                                        
+                                                        :!!!!!!!!!!!!!!!!!!!!!!!!!~   :~~~~~~~~~~~~~~~~~~~~~~~~~~:   :^^^^^^^^^^^^^^^^^^^^^^^^^.                                                        
+                                                        !GPPPPPPPPGGGGGGGGGGPPPPPG5.  !YJJJJJJJJJJYYYYYJJJJJJJJJY!   !7777777777777777777777777^                                                        
+                                                        !PPPPPPPPP5Y?7777?JYPPPPPP5.  !JJJJJJJJJJ7!77!7JJJJJJJJJJ!   !77777~~~~~~~~!!7777777777^                                                        
+                                                        !PPPPPPP?^.        ~PPPPPP5.  !JJJJJJJJJ7      ~JJJJJJJJJ!   !77777.         .:~7777777^                                                        
+                                                        !PPPPPY^    ~?JYJJ7JPPPPPP5.  !JJJJJJJJ?.   .   !JJJJJJJJ!   !77777.   ~!!~:    :777777^                                                        
+                                                        !PPPPP:   .YPPPPPPPPPPPPPP5.  !JJJJJJJJ:   !7    7JJJJJJJ!   !77777.   !7777~    ^77777^                                                        
+                                                        !PPPPY    !GPPPPPPPPPPPPPP5.  !JJJJJJJ^   ~JJ~   .?JJJJJJ!   !77777.   !77777.   .77777^                                                        
+                                                        !PPPP5.   ^PPPPPPPPPPPPPPP5.  !JJJJJJ~    ::::    :JJJJJJ!   !77777.   !7777!    :77777^                                                        
+                                                        !PPPPP7    ^J5PPP5Y5PPPPPP5.  !JJJJJ!    ::..::    ^JJJJJ!   !77777.   !77!~.   .!77777^                                                        
+                                                        !PPPPPPJ^    ..::. ~PPPPPP5.  !JJJJ7    !JJJJJJ7    ~JJJJ!   !77777.   ...    .^7777777^                                                        
+                                                        !PPPPPPPPY?!^::::^~?PPPPPP5.  !JJJJ~^^^~JJJJJJJJ!^^^^?JJJ!   !77777^::::::^^~!777777777^                                                        
+                                                        !GPPPPPPPPGGPPPPPPGPPPPPPP5.  !JJJJJJJJJJJJJJJJJJJJJJJJJJ!   !7777777777777777777777777^                                                        
+                                                        ~5555555555555555555555555Y.  !??????????????????????????!   !!!!!!!!!!!!!!!!!!!!!!!!!7^                                                        
+   
 ## ‼️The projects are divided into three levels to facilitate the search for simpler projects or even the most complex, the levels are: 
 
 🔸Easy = ⚪
